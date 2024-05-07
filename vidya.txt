@@ -1,1 +1,9 @@
-sdfghjmk,cgvhbjnkmldhb
+git init
+
+git add .
+
+git remote add origin "path"
+
+git commit -m "add"
+
+git push -u origin master
